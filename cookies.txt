@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.pbsc.com	TRUE	/	FALSE	1999999999	PHPSESSID	37uiv2frnn3ms7nheg10t63fjt
+
